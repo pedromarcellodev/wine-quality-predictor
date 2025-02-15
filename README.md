@@ -9,7 +9,7 @@ Este projeto visa prever a qualidade do vinho com base em suas propriedades fís
 - **Scikit-learn**
 - **XGBoost**
 - **Pandas, NumPy**
-- **SMOTE (Synthetic Minority Over-sampling Technique)**
+- **SMOTE**
 - **Joblib**
 
 ## Dataset
@@ -31,7 +31,7 @@ O dataset pode ser acessado diretamente através deste link: [Wine Quality Datas
 2. Execute o app:
 
     ```bash
-    streamlit run app.py
+    streamlit run projeto_vinhos.py
     ```
 
 ## Deploy
